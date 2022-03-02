@@ -1,5 +1,4 @@
 import { NGrid, NGi, NProgress } from "naive-ui";
-import { getQueryParam } from "@utils/url.js";
 
 export default {
   components: {
