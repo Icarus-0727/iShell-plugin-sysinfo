@@ -1,0 +1,9 @@
+{
+  "name": "sysinfo",
+  "title": "资源监控",
+  "author": "Icarus-0727",
+  "version": "1.0.0",
+  "description": "监控服务器的 cpu 使用率和内存使用率。",
+  "index": "index.html",
+  "icon": "favicon.ico"
+}

@@ -33,6 +33,11 @@
         :fill-border-radius="0"
       />
     </NGi>
+    <NGi
+      span="8"
+      offset="8"
+    >{{ Math.round(memUsed / 1024) }} / {{ Math.round(memTotal / 1024) }} (MB)</NGi>
+    <NGi span="8">{{ Math.round(swapUsed / 1024) }} / {{ Math.round(swapTotal / 1024) }} (MB)</NGi>
   </NGrid>
 </template>
 
